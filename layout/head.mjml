@@ -1,0 +1,57 @@
+<mj-head>
+  <mj-attributes>
+    <mj-title>[[Subject]]</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:400,700"></mj-font>
+
+    <mj-all 
+      padding="0px"
+      font-family="'Roboto', Helvetica, Arial, sans-serif">
+    </mj-all>
+    <mj-section background-color="#ffffff"></mj-section>
+    <mj-text
+      letter-spacing="0.28px" 
+      font-family="Roboto, Helvetica, Arial, sans-serif" 
+      padding="0 0 0 20px" 
+      font-size="13px">
+    </mj-text>
+
+    <mj-class name="advantage-row"          
+      padding="0 10.5% 0"  
+      height="30px" 
+      background-url="https://marketingstart.ru/wp-content/uploads/2019/05/imann_gradient_background.png" 
+      background-repeat="no-repeat" 
+      background-size="73% 100%"
+    />
+
+    <mj-class name="white-space" 
+      border-width="10px" 
+      border-style="solid" 
+      border-color="#ffffff" 
+      width="100%"
+    />    
+
+    <mj-class 
+      name="red-disc-background"
+      background-width="30px"
+      background-height="30px"
+      background-url="https://marketingstart.ru/wp-content/uploads/2019/05/imann_red_disc.png"
+      background-color="tranparent"
+      height="30px"
+      width="30px"
+    />
+
+    <mj-class name="paragraph-description" 
+      padding-right="10px"
+      padding-left="10px"
+      font-size="15px" 
+      color="#000000"
+      line-height="26px"
+      align="left"
+      letter-spacing="-0.15px"
+    />
+  </mj-attributes>
+
+  <mj-style inline="inline">a { text-decoration: none!important; color: #0070bb; }</mj-style>
+  <mj-style inline="inline">.small-text > div { font-size: 15px!important; }</mj-style>
+  <mj-style inline="inline">.small-text > p { font-size: 14px!important; }</mj-style>
+</mj-head>

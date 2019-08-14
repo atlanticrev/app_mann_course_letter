@@ -1,0 +1,318 @@
+<mjml>
+ <mj-include path="./head.mjml" />
+
+  <mj-body 
+    background-color="#f4f4f4" 
+    width="740px"
+  >
+    <mj-include path="./header_section.mjml" />
+    <mj-include path="./description_section.mjml" />
+    <mj-include path="./button_participate_section.mjml" />
+    <mj-include path="./about_program_section.mjml" />
+
+    <mj-section mj-class="advantage-row">
+        <mj-column width="10%">
+          <mj-hero mj-class="red-disc-background">
+            <mj-text 
+              color="#ffffff" 
+              align="center" 
+              padding="0" 
+              font-weight="bold" 
+              line-height="30px"
+            >
+                01
+            </mj-text>>              
+          </mj-hero>
+        </mj-column>
+
+        <mj-column width="90%">
+          <mj-text
+            letter-spacing="0.28px"
+            align="left" 
+            font-size="14px"
+            line-height="22px"
+            padding-top="4px"
+            padding-left="30px"
+          >
+            Введение. Знакомство. Тестирование&nbsp;участников&nbsp;курса
+          </mj-text>  
+        </mj-column>
+        <mj-divider mj-class="white-space"/>
+    </mj-section>
+
+        <mj-section mj-class="advantage-row">
+        <mj-column width="10%">
+          <mj-hero mj-class="red-disc-background">
+            <mj-text 
+              color="#ffffff" 
+              align="center" 
+              padding="0" 
+              font-weight="bold" 
+              line-height="30px"
+            >
+                02
+            </mj-text>>              
+          </mj-hero>
+        </mj-column>
+
+        <mj-column width="90%">
+          <mj-text
+            letter-spacing="0.28px"
+            align="left" 
+            font-size="14px"
+            line-height="22px"
+            padding-top="4px"
+            padding-left="30px"
+          >
+            Как реализовать свою идею в&nbsp;соцсетях, какую платформу выбрать
+          </mj-text>  
+        </mj-column>
+        <mj-divider mj-class="white-space"/>
+    </mj-section>
+
+        <mj-section mj-class="advantage-row">
+        <mj-column width="10%">
+          <mj-hero mj-class="red-disc-background">
+            <mj-text 
+              color="#ffffff" 
+              align="center" 
+              padding="0" 
+              font-weight="bold" 
+              line-height="30px"
+            >
+                03
+            </mj-text>>              
+          </mj-hero>
+        </mj-column>
+
+        <mj-column width="90%">
+          <mj-text
+            letter-spacing="0.28px"
+            align="left" 
+            font-size="14px"
+            line-height="22px"
+            padding-top="4px"
+            padding-left="30px"
+          >
+            Секреты создания личного бренда и&nbsp;формирование предложения
+          </mj-text>  
+        </mj-column>
+        <mj-divider mj-class="white-space"/>
+    </mj-section>
+
+        <mj-section mj-class="advantage-row">
+        <mj-column width="10%">
+          <mj-hero mj-class="red-disc-background">
+            <mj-text 
+              color="#ffffff" 
+              align="center" 
+              padding="0" 
+              font-weight="bold" 
+              line-height="30px"
+            >
+                04
+            </mj-text>>              
+          </mj-hero>
+        </mj-column>
+
+        <mj-column width="90%">
+          <mj-text
+            letter-spacing="0.28px"
+            align="left" 
+            font-size="14px"
+            line-height="22px"
+            padding-top="4px"
+            padding-left="30px"
+          >
+            Целевая аудитория или кто они, твои клиенты?
+          </mj-text>  
+        </mj-column>
+        <mj-divider mj-class="white-space"/>
+    </mj-section>
+
+        <mj-section mj-class="advantage-row">
+        <mj-column width="10%">
+          <mj-hero mj-class="red-disc-background">
+            <mj-text 
+              color="#ffffff" 
+              align="center" 
+              padding="0" 
+              font-weight="bold" 
+              line-height="30px"
+            >
+                05
+            </mj-text>>              
+          </mj-hero>
+        </mj-column>
+
+        <mj-column width="90%">
+          <mj-text
+            letter-spacing="0.28px"
+            align="left" 
+            font-size="14px"
+            line-height="22px"
+            padding-top="4px"
+            padding-left="30px"
+          >
+            Работа с контентом. Видеоконтент, блогинг, продающие тексты
+          </mj-text>  
+        </mj-column>
+        <mj-divider mj-class="white-space"/>
+    </mj-section>
+
+        <mj-section mj-class="advantage-row">
+        <mj-column width="10%">
+          <mj-hero mj-class="red-disc-background">
+            <mj-text 
+              color="#ffffff" 
+              align="center" 
+              padding="0" 
+              font-weight="bold" 
+              line-height="30px"
+            >
+                06
+            </mj-text>>              
+          </mj-hero>
+        </mj-column>
+
+        <mj-column width="90%">
+          <mj-text
+            letter-spacing="0.28px"
+            align="left" 
+            font-size="14px"
+            line-height="22px"
+            padding-top="4px"
+            padding-left="30px"
+          >
+            Маркетинг без бюджета. Как&nbsp;регулярно&nbsp;получать бесплатный охват
+          </mj-text>  
+        </mj-column>
+        <mj-divider mj-class="white-space"/>
+    </mj-section>
+
+        <mj-section mj-class="advantage-row">
+        <mj-column width="10%">
+          <mj-hero mj-class="red-disc-background">
+            <mj-text 
+              color="#ffffff" 
+              align="center" 
+              padding="0" 
+              font-weight="bold" 
+              line-height="30px"
+            >
+                07
+            </mj-text>>              
+          </mj-hero>
+        </mj-column>
+
+        <mj-column width="90%">
+          <mj-text
+            letter-spacing="0.28px"
+            align="left" 
+            font-size="14px"
+            line-height="22px"
+            padding-top="4px"
+            padding-left="30px"
+          >
+            Стратегия продвижения, пошаговый медиаплан
+          </mj-text>  
+        </mj-column>
+        <mj-divider mj-class="white-space"/>
+    </mj-section>
+
+        <mj-section mj-class="advantage-row">
+        <mj-column width="10%">
+          <mj-hero mj-class="red-disc-background">
+            <mj-text 
+              color="#ffffff" 
+              align="center" 
+              padding="0" 
+              font-weight="bold" 
+              line-height="30px"
+            >
+                08
+            </mj-text>>              
+          </mj-hero> 
+        </mj-column>
+
+        <mj-column width="90%">
+          <mj-text
+            letter-spacing="0.28px"
+            align="left" 
+            font-size="14px"
+            line-height="22px"
+            padding-top="4px"
+            padding-left="30px"
+          >
+            Эффективные рекламные объявления, подготовка и&nbsp;запуск&nbsp;кампаний
+          </mj-text>  
+        </mj-column>
+        <mj-divider mj-class="white-space"/>
+    </mj-section>
+
+        <mj-section mj-class="advantage-row">
+        <mj-column width="10%">
+          <mj-hero mj-class="red-disc-background">
+            <mj-text 
+              color="#ffffff" 
+              align="center" 
+              padding="0" 
+              font-weight="bold" 
+              line-height="30px"
+            >
+                09
+            </mj-text>              
+          </mj-hero>
+        </mj-column>
+
+        <mj-column width="90%">
+          <mj-text
+            letter-spacing="0.28px"
+            align="left" 
+            font-size="14px"
+            line-height="22px"
+            padding-top="4px"
+            padding-left="30px"
+          >
+            Работа с аналитикой, настройка всех бизнес-отчетов
+          </mj-text>  
+        </mj-column>
+        <mj-divider mj-class="white-space"/>
+    </mj-section>
+
+        <mj-section mj-class="advantage-row">
+        <mj-column width="10%">
+          <mj-hero mj-class="red-disc-background">
+            <mj-text 
+              color="#ffffff" 
+              align="center" 
+              padding="0" 
+              font-weight="bold" 
+              line-height="30px"
+            >
+                10
+            </mj-text>>              
+          </mj-hero>
+        </mj-column>
+
+        <mj-column width="90%">
+          <mj-text
+            align="left" 
+            font-size="14px"
+            line-height="22px"
+            padding-top="4px"
+            padding-left="30px"
+          >
+            Разбор кейсов. Персональные&nbsp;консультации
+          </mj-text>  
+        </mj-column>
+        <mj-divider mj-class="white-space"/>
+    </mj-section>
+
+    <mj-include path="./attention_text_section.mjml" />
+    <mj-include path="./button_more_section.mjml" />
+    <mj-include path="./your_email_section.mjml" />
+    <mj-include path="./footer_logo_section.mjml" />
+    <mj-include path="./socials_section.mjml" />
+  </mj-body>
+</mjml>

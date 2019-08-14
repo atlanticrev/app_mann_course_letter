@@ -1,0 +1,33 @@
+<mj-section 
+  background-color="white"
+  padding="0 10%"
+>
+  <mj-column width="10%">
+
+    <mj-text 
+      container-background-color="url(https://marketingstart.ru/wp-content/uploads/2019/05/imann_red_disc.png)"
+      color="#ffffff" 
+      align="center" 
+      padding="0" 
+      width="30px"
+      height="30px"
+      font-weight="bold" 
+      line-height="30px"
+    >
+      09
+    </mj-text>    
+  </mj-column>
+
+  <mj-column width="90%">
+    <mj-text
+      container-background-color="url(https://marketingstart.ru/wp-content/uploads/2019/05/imann_gradient_background.png)"
+      background-repeat="no-repeat"
+      align="center" 
+      font-size="14px"
+      line-height="22px"
+      vertical-align="center"
+    >
+      Эффективные рекламные объявления, подготовка и&nbsp;запуск&nbsp;кампаний
+    </mj-text>    
+  </mj-column>
+</mj-section>

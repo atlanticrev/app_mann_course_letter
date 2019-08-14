@@ -1,0 +1,30 @@
+<mj-section
+	background-color="#f4f4f4"
+  padding-top="15px"
+  padding-bottom="15px"
+>
+  <mj-group>
+      <mj-column border-right="1px solid #bcbec6" width="43%">
+       <mj-image 
+        padding-right="5px"
+        src="https://marketingstart.ru/wp-content/uploads/2019/05/imann_ms_footer_logo.png" 
+        width="39px"
+        height="27px"
+        align="right"
+       /> 
+    </mj-column>
+
+    <mj-column width="57%">
+      <mj-text
+        padding-left="10px"
+        color="#bcbec6"
+        font-size="12px"
+        align="left"
+        line-height="27px"
+      >
+        Курсы по маркетингу
+      </mj-text>
+    </mj-column> 
+  </mj-group>
+
+</mj-section>

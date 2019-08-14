@@ -1,0 +1,20 @@
+<mj-section 
+  padding-bottom="20px" 
+  padding-top="20px"
+>
+  <mj-column>
+    <mj-button
+      href="https://marketingstart.ru/imann-course-free?email=[[email]]"
+      css-class="small-text"
+      width="217px"
+      height="58px"
+      background-color="#e01b37" 
+      color="#ffffff"  
+      padding="12px 0 12px 0" 
+      font-weight="bold" 
+      font-size="16px"
+    >
+      Подробнее о курсе
+    </mj-button>
+  </mj-column>
+</mj-section>

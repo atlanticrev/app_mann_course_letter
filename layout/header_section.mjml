@@ -1,0 +1,11 @@
+<mj-section padding-top="0">
+  <mj-column 
+    width="95%" 
+	>
+    <mj-image 
+      src="https://marketingstart.ru/wp-content/uploads/2019/05/imann_header_image_new.png" 
+      alt="Курсы Игоря Манна" 
+      padding="0px">
+    </mj-image>
+  </mj-column>
+</mj-section>

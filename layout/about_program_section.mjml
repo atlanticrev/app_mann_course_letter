@@ -1,0 +1,21 @@
+<mj-section>
+  <mj-column>
+    <mj-text
+      letter-spacing="0.28px" 
+      align="center" 
+      color="#000000" 
+      font-size="20px" 
+      font-family="Arial, sans-serif" 
+      font-weight="bold" 
+      line-height="35px" 
+      padding-left="0"
+      padding-right="0"
+      padding-top="10px"
+      padding-bottom="11px"
+      text-transform="uppercase"
+      letter-spacing:="-1.15px"
+    >
+      программа курса:
+    </mj-text>
+  </mj-column>
+</mj-section>

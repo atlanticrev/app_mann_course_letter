@@ -1,0 +1,31 @@
+    <mj-section 
+      background-color="#f4f4f4"
+      padding-top="0"
+      padding-bottom="15px"
+    >
+      <mj-column>
+        <mj-social 
+        font-size="10px" 
+        icon-size="25px" 
+        mode="horizontal">
+          <mj-social-element 
+            href="https://www.facebook.com/kurs.marketingSTART/" 
+            src="https://marketingstart.ru/wp-content/uploads/2019/05/imann_fb_icon.png" 
+            border-radius="50%" 
+            padding="0 7px">
+          </mj-social-element>
+          <mj-social-element 
+            href="https://vk.com/kurs_ms" 
+            src="https://marketingstart.ru/wp-content/uploads/2019/05/imann_vk_icon.png" 
+            border-radius="50%" 
+            padding="0 7px">
+          </mj-social-element>
+          <mj-social-element 
+            href="https://www.instagram.com/marketingstart.ru/" 
+            src="https://marketingstart.ru/wp-content/uploads/2019/05/imann_instagram_icon.png" 
+            border-radius="50%" 
+            padding="0 7px">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>

@@ -1,0 +1,16 @@
+<mj-section
+  padding-top="22px"
+>
+  <mj-column width="70%">
+    <mj-text
+      padding-left="0"
+      align="center"
+      font-size="15px"
+      color="#474747"
+      letter-spacing="-0.2px"
+      line-height="26px"
+    >
+      Количество мест в группе ограничено, а&nbsp;желающих&nbsp;очень&nbsp;много.<br>Успей забронировать место!
+    </mj-text>
+  </mj-column>
+</mj-section>

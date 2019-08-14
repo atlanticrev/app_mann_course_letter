@@ -1,0 +1,12 @@
+<mj-section padding-top="15px">
+  <mj-column width="95%">
+    <mj-text mj-class="paragraph-description" css-class="small-text">
+        Практический онлайн-курс о комплексном маркетинге в соцсетях. От построения бренда
+        до рекламной кампании и продаж.<br>
+    </mj-text>
+    <mj-spacer height="10px"/>
+    <mj-text mj-class="paragraph-description" css-class="small-text">
+        Вы узнаете, почему реклама в соцсетях &#8212; лучший способ продвижения в 2019 году и как привлекать постоянный поток клиентов по оптимальной цене.
+    </mj-text>
+  </mj-column>
+</mj-section>

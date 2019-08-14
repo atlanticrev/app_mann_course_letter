@@ -1,0 +1,18 @@
+<mj-section 
+  background-color="#f4f4f4"
+  padding-top="20px"
+>
+  <mj-column width="65%">
+    <mj-text 
+      padding-left="10px"
+      padding-right="10px"
+      align="center"
+      letter-spacing="0.02px"
+      line-height="17px"
+      color="#bcbec6"
+    >
+      Вы получили это письмо на адрес [[email]], так как
+      являетесь клиентом MarketingSTART. Если вы больше не хотите получать наши анонсы, вы можете отписаться.
+    </mj-text>
+  </mj-column>
+</mj-section>
